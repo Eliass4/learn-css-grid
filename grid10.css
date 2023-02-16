@@ -1,0 +1,42 @@
+.container{
+    background-color: #40fef4;
+    width: 600x;
+    height: fit-content;
+    display grid;
+    grid-template-columns: repeat(auto-fill, 100px);
+    row-gap: 25px;
+    column-gap: 25px;
+}
+.item{
+
+}
+.a{
+    background-color: #00b3ff;
+}
+.b{
+    background-color: #00b3ff;
+}
+.c{
+    background-color: #00b3ff;
+}
+.d{
+    background-color: #00b3ff;
+}
+.e{
+    background-color: #00b3ff;
+}
+.f{
+    background-color: #0051ff;
+}
+.g{
+    background-color: #0051ff;
+}
+.h{
+    background-color: #0051ff;
+}
+.i{
+    background-color: #0051ff;
+}
+.j{
+    background-color: #0051ff;
+}
